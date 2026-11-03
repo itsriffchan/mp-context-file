@@ -1,4 +1,4 @@
-# Context files for all code snippets given in MobProg 🤖
+# Context files for all code snippets given in MobProg 📱
 
 Hmm actually this is fun im just too stupid to learn 
 
